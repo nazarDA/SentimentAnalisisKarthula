@@ -50,7 +50,7 @@ This project was developed using **Google Colab**.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
+    git clone https://github.com/nazarDA/SentimentAnalisisKarthula.git
     ```
 2.  Open the `.ipynb` file in Google Colab or Jupyter Notebook.
 3.  Ensure the dataset `Data_Kebakaran_Hutan.csv` is available (or adjust the `gdown` code in the notebook).
